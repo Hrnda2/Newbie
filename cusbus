@@ -16338,6 +16338,66 @@
                 "lastUpdateAt": 1617174145,
                 "objectId": "GK_outfit_013",
                 "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "BE_Mask012",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "BE_Body012",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "BE_W012",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "WI_Body010",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "WI_Hair010",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "WI_W010",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "DO_Body012",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "DO_Head012",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "DO_W012",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "BE_outfit_012",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "DO_outfit_012",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "WI_outfit_010",
+                "quantity": 1
             }
         ]
     }
