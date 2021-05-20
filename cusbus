@@ -16762,7 +16762,52 @@
                 "lastUpdateAt": 1617174145,
                 "objectId": "RW_018",
                 "quantity": 1
-            }
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "DK_Legs014",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "DK_Torso014",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "DK_Head014",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "DF_Torso015",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "DF_Legs015",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "DF_Head015",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "NK_Head015",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "NK_Torso015",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617174145,
+                "objectId": "NK_Legs015",
+                "quantity": 1
+            },
         ]
     }
 }
