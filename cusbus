@@ -179,9 +179,24 @@
                 "objectId": "K23",
                 "quantity": 1
             },
+                        {
+                "lastUpdateAt": 1617184641,
+                "objectId": "K24",
+                "quantity": 1
+            },
             {
                 "lastUpdateAt": 1617130038,
                 "objectId": "S25",
+                "quantity": 1
+            },
+                        {
+                "lastUpdateAt": 1617130038,
+                "objectId": "S26",
+                "quantity": 1
+            },
+                        {
+                "lastUpdateAt": 1617130038,
+                "objectId": "S27",
                 "quantity": 1
             },
             {
