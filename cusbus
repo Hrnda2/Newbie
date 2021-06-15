@@ -16883,6 +16883,37 @@
                 "objectId": "S26_Head006",
                 "quantity": 1
             },
+            {
+                "lastUpdateAt": 1617144365,
+                "objectId": "S27_Head02",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617144365,
+                "objectId": "S27_Legs02",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617144365,
+                "objectId": "S27_Torso02",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617144365,
+                "objectId": "S27_Torso006",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617144365,
+                "objectId": "S27_Legs006",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617144365,
+                "objectId": "S27_Head006",
+                "quantity": 1
+            },
+            
         ]
     }
 }
