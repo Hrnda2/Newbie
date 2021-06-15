@@ -16852,7 +16852,37 @@
                 "lastUpdateAt": 1617144365,
                 "objectId": "QM_Torso010",
                 "quantity": 1
-            }
+            },
+            {
+                "lastUpdateAt": 1617144365,
+                "objectId": "S26_Torso02",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617144365,
+                "objectId": "S26_Head02",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617144365,
+                "objectId": "S26_Legs02",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617144365,
+                "objectId": "S26_Torso006",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617144365,
+                "objectId": "S26_Legs006",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617144365,
+                "objectId": "S26_Head006",
+                "quantity": 1
+            },
         ]
     }
 }
