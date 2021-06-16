@@ -200,6 +200,16 @@
                 "quantity": 1
             },
             {
+                "lastUpdateAt": 1617125513,
+                "objectId": "Bob",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617125513,
+                "objectId": "Smoke",
+                "quantity": 1
+            },
+            {
                 "lastUpdateAt": 1617134547,
                 "objectId": "AV_Head001",
                 "quantity": 1
