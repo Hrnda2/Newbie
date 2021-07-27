@@ -17677,6 +17677,36 @@
                 "lastUpdateAt": 1637112591,
                 "objectId": "S24_Legs009",
                 "quantity": 1
+          },
+          {
+                "lastUpdateAt": 1637112591,
+                "objectId": "KS_Legs012",
+                "quantity": 1
+          },
+          {
+                "lastUpdateAt": 1637112591,
+                "objectId": "KS_Torso012",
+                "quantity": 1
+          },
+          {
+                "lastUpdateAt": 1637112591,
+                "objectId": "KS_Head012",
+                "quantity": 1
+          },
+          {
+                "lastUpdateAt": 1637112591,
+                "objectId": "GS_Legs016",
+                "quantity": 1
+          },
+          {
+                "lastUpdateAt": 1637112591,
+                "objectId": "GS_Torso016",
+                "quantity": 1
+          },
+          {
+                "lastUpdateAt": 1637112591,
+                "objectId": "GS_Head016",
+                "quantity": 1
           }
         ]
     }
