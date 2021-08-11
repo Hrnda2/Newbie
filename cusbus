@@ -17787,6 +17787,11 @@
                 "lastUpdateAt": 1637112591,
                 "objectId": "MT_Legs016",
                 "quantity": 1
+          },
+          {
+                "lastUpdateAt": 1637112591,
+                "objectId": "KK_Mask020",
+                "quantity": 1
           }
         ]
     }
