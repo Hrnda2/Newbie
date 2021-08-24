@@ -1,15 +1,15 @@
 {
   "list": [
     {
-      "balance": 999999998,
+      "balance": 20,
       "currency": "BonusBloodpoints"
     },
     {
-      "balance": 999999999,
+      "balance": 50,
       "currency": "Shards"
     },
     {
-      "balance": 999999997,
+      "balance": 44,
       "currency": "Cells"
     },
     {
