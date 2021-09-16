@@ -17905,17 +17905,17 @@
           },
           {
                 "lastUpdateAt": 1637112591,
-                "objectId": "SK_Mask011",
+                "objectId": "SwedenKiller_Mask011",
                 "quantity": 1
           },
           {
                 "lastUpdateAt": 1637112591,
-                "objectId": "SK_Body011",
+                "objectId": "SwedenKiller_Body011",
                 "quantity": 1
           },
           {
                 "lastUpdateAt": 1637112591,
-                "objectId": "SK_W011",
+                "objectId": "SwedenKiller_W011",
                 "quantity": 1
           },
           {
@@ -17930,7 +17930,7 @@
           },
           {
                 "lastUpdateAt": 1637112591,
-                "objectId": "K23_W008",
+                "objectId": "K23_Weapon008",
                 "quantity": 1
           }
         ]
