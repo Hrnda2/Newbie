@@ -17937,6 +17937,11 @@
                 "lastUpdateAt": 1637112591,
                 "objectId": "GE_002",
                 "quantity": 1
+          },
+          {
+                "lastUpdateAt": 1637112591,
+                "objectId": "GE_001",
+                "quantity": 1
           }
         ]
     }
