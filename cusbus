@@ -18272,6 +18272,21 @@
                 "lastUpdateAt": 1637112591,
                 "objectId": "GK_W013_01",
                 "quantity": 1
+          },
+	  {
+                "lastUpdateAt": 1637112591,
+                "objectId": "KS_Legs011_02",
+                "quantity": 1
+          },
+	  {
+                "lastUpdateAt": 1637112591,
+                "objectId": "KS_Legs007_01",
+                "quantity": 1
+          },
+	  {
+                "lastUpdateAt": 1637112591,
+                "objectId": "KS_Head008_01",
+                "quantity": 1
           }
 	]
     }
