@@ -19122,6 +19122,51 @@
                 "lastUpdateAt": 1617190982,
                 "objectId": "GK_outfit_013",
                 "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "K26_Body006",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "K26_W006",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "K26_Head006",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "K26_Body01",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "K26_W01",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "K26_Head01",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "K26_Body02",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "K26_W02",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "K26_Head02",
+                "quantity": 1
             }
         ]
     }
