@@ -19340,17 +19340,32 @@
             },
             {
                 "lastUpdateAt": 1617190982,
-                "objectId": "OK_W009",
+                "objectId": "OK_W010",
                 "quantity": 1
             },
             {
                 "lastUpdateAt": 1617190982,
-                "objectId": "OK_Body009",
+                "objectId": "OK_Body010",
                 "quantity": 1
             },
             {
                 "lastUpdateAt": 1617190982,
-                "objectId": "OK_Mask009",
+                "objectId": "OK_Mask010",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "HK_W013",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "HK_Body013",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "HK_Head013",
                 "quantity": 1
             }
         ]
