@@ -19427,6 +19427,31 @@
                 "lastUpdateAt": 1617190982,
                 "objectId": "S28_Torso010",
                 "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "S28_Torso009",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "S27_Torso007",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "S26_Torso007",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "S25_Torso012",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "S29_Torso007",
+                "quantity": 1
             }
         ]
     }
