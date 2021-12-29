@@ -19452,6 +19452,36 @@
                 "lastUpdateAt": 1617190982,
                 "objectId": "S29_Torso007",
                 "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "IO_004",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "HU_041",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "IO_002",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "IO_003",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "IO_001",
+                "quantity": 1
+            },
+            {
+                "lastUpdateAt": 1617190982,
+                "objectId": "HU_042",
+                "quantity": 1
             }
         ]
     }
