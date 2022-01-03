@@ -19532,6 +19532,11 @@
                 "lastUpdateAt": 1617190982,
                 "objectId": "K21_W009",
                 "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617190982,
+                "objectId": "HU_033",
+                "quantity": 1
             }
         ]
     }
