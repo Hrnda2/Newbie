@@ -20357,6 +20357,16 @@
                 "lastUpdateAt": 1617140190,
                 "objectId": "JU_051",
                 "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617140190,
+                "objectId": "TW_W03_03",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617140190,
+                "objectId": "TW_Body02_01",
+                "quantity": 1
             }
         ]
     }
