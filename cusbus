@@ -20572,6 +20572,11 @@
                 "lastUpdateAt": 1617194238,
                 "objectId": "KE_002",
                 "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "DF_Torso017",
+                "quantity": 1
             }
         ]
     }
