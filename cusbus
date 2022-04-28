@@ -20727,6 +20727,21 @@
                 "lastUpdateAt": 1617194238,
                 "objectId": "DF_Legs001_05",
                 "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "HS_Legs02_02",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "HS_Head010_01",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "HS_Torso011_01",
+                "quantity": 1
             }
         ]
     }
