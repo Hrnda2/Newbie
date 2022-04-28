@@ -20832,6 +20832,21 @@
                 "lastUpdateAt": 1617194238,
                 "objectId": "KK_W022",
                 "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "K23_Weapon006_01",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "K23_Body006_01",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "K23_Head006_01",
+                "quantity": 1
             }
         ]
     }
