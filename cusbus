@@ -20742,6 +20742,21 @@
                 "lastUpdateAt": 1617194238,
                 "objectId": "HS_Torso011_01",
                 "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "KS_Torso014",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "KS_Legs014",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "KS_Head014",
+                "quantity": 1
             }
         ]
     }
