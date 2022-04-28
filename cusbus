@@ -20712,6 +20712,21 @@
                 "lastUpdateAt": 1617194238,
                 "objectId": "DK_Head016",
                 "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "DF_Torso015_01",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "DF_Head012_01",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "DF_Legs001_05",
+                "quantity": 1
             }
         ]
     }
