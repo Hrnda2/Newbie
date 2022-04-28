@@ -20652,6 +20652,36 @@
                 "lastUpdateAt": 1617194238,
                 "objectId": "K21_Body010",
                 "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "K22_Body008",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "K22_Head008",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "K22_W008",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "TC_Legs05_04",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "TC_Torso05_04",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "TC_W05_04",
+                "quantity": 1
             }
         ]
     }
