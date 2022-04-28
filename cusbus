@@ -20682,6 +20682,21 @@
                 "lastUpdateAt": 1617194238,
                 "objectId": "TC_W05_04",
                 "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "CM_Head009_01",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "CM_Torso009_01",
+                "quantity": 1
+            },
+	    {
+                "lastUpdateAt": 1617194238,
+                "objectId": "CM_Legs009_01",
+                "quantity": 1
             }
         ]
     }
