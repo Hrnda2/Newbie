@@ -1,7 +1,7 @@
 {
   "code": 200,
   "data": {
-    "playerId": "xxx",
+    "playerId": "999999998",
     "inventory": [
       {
         "lastUpdatedAt": 1654617479025,
@@ -19561,6 +19561,36 @@
       {
         "lastUpdatedAt": 1654617479026,
         "objectId": "GS_outfit_018",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1654617479025,
+        "objectId": "SwedenKiller_Mask012",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1654617479025,
+        "objectId": "SwedenKiller_Body012",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1654617479025,
+        "objectId": "SwedenKiller_W012",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1654617479025,
+        "objectId": "HK_Head016",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1654617479025,
+        "objectId": "HK_Body016",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1654617479025,
+        "objectId": "HK_W016",
         "quantity": 1
       }
     ]
