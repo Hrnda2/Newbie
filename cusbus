@@ -2401,6 +2401,21 @@
       },
       {
         "lastUpdatedAt": 1528758000000,
+        "objectId": "FM_Head022",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1528758000000,
+        "objectId": "FM_Torso022",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1528758000000,
+        "objectId": "FM_Legs022",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1528758000000,
         "objectId": "FM_Head002_02",
         "quantity": 1
       },
@@ -4382,6 +4397,21 @@
       {
         "lastUpdatedAt": 1592316000000,
         "objectId": "S22_Legs02",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1592316000000,
+        "objectId": "S22_Head011",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1592316000000,
+        "objectId": "S22_Torso011",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1592316000000,
+        "objectId": "S22_Legs011",
         "quantity": 1
       },
       {
