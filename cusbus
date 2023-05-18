@@ -11,6 +11,36 @@
       },
       {
         "lastUpdatedAt": 1683297221,
+        "objectId": "UK_Head013",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1683297221,
+        "objectId": "UK_Body013",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1683297221,
+        "objectId": "UK_W013",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1683297221,
+        "objectId": "US_Head017",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1683297221,
+        "objectId": "US_Torso017",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1683297221,
+        "objectId": "US_Legs017",
+        "quantity": 1
+      },
+      {
+        "lastUpdatedAt": 1683297221,
         "objectId": "AV_Head01_P01",
         "quantity": 1
       },
